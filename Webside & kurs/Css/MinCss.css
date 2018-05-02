@@ -1,0 +1,53 @@
+body {
+    background-size: cover;  
+
+	}
+
+/* Navigation bar */
+
+ul li {font-family: oswald; color: blue; }
+li a { color: white; font-size: 10x; text-shadow: 1px 1px black; }
+
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+padding: 0;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+background-color: ;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}
+
+
+li a:hover {
+    background-color: black;
+}
+
+
+/* Text center first page*/ 
+h1 { 
+	font-family: Oswald;
+	color: white;
+    text-align: center;
+	font-size: 75px;
+	line-height: 11.9;
+	text-shadow: 1px 4px black;
+	}
+
+	/* Text center first page*/ 
+h2 { 
+	font-family: Oswald;
+	color: white;
+    text-align: center;
+	font-size: 75px;
+	line-height: 10.5;
+	text-shadow: 1px 4px black;
+	}
+
